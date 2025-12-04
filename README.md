@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=80&lines=Hardware+Hacking+Arsenal;ESP8266+Security+Toolkit;WiFi+Pentesting+Suite" alt="Typing SVG" />
+  <img src="https://cdn.dribbble.com/userupload/44884610/file/df4c5392994948866b296aa4eb5448ad.gif" alt="Hardware Hacking" width="600" />
 </p>
 
 <p align="center">
